@@ -4,51 +4,51 @@
 
 0. Configurar acesso via HTTPS e SSH
    - Acesso HTTPS
-   > digita no gitbash:
-   > git config --global user.name "nome do usuário github"
+   > digita no gitbash:  
+   > git config --global user.name "nome do usuário github"  
    > git config --global user.email "email do usuario github"
 
    - Acesso SSH
-   > digita no gitbash:
-   > git config --global user.name "nome do usuário github"
-   > git config --global user.email "email do usuario github"
-   > ssh-keygen
-   > vai teclando enter
-   > va na pasta que foi salva as chaves (c:/users/nomeDoUsuario/.ssh)
-   > cat nomeDaChave.pub
-   > copia o conteudo da chave
-   > vai no github > conficurações > chaves ssh e GPG > Nova chave
-   > agora, é só copiar a url ssh em vez da url https do repositório
-   > no gitbash digita: git remote set-url origin "url ssh"
-   > git init
-   > git add .
-   > git commit -m "Mensagem"
+   > digita no gitbash:  
+   > git config --global user.name "nome do usuário github"  
+   > git config --global user.email "email do usuario github"  
+   > ssh-keygen  
+   > vai teclando enter  
+   > va na pasta que foi salva as chaves (c:/users/nomeDoUsuario/.ssh)  
+   > cat nomeDaChave.pub  
+   > copia o conteudo da chave  
+   > vai no github > conficurações > chaves ssh e GPG > Nova chave  
+   > agora, é só copiar a url ssh em vez da url https do repositório  
+   > no gitbash digita: git remote set-url origin "url ssh"  
+   > git init  
+   > git add .  
+   > git commit -m "Mensagem"  
    > git push origin "url ssh"
 
 1. Criar um repositório local e adiciona-lo ao github remoto; [ x ]
-   > cria um diretório local
-   > cria um repositório no github com o mesmo nome do local
-   > abre o gitbash no diretório local e digita:
-   > git init
-   > git branch -M main
-   > git add .
-   > git commit -m "Mensagem"
-   > git push origin "url https"
+   > cria um diretório local  
+   > cria um repositório no github com o mesmo nome do local  
+   > abre o gitbash no diretório local e digita:  
+   > git init  
+   > git branch -M main  
+   > git add .  
+   > git commit -m "Mensagem"  
+   > git push origin "url https"  
    > git status
 
 2. Clonar um repositório remoto para o nosso computador local; [ x ]
-   > vai no repositório remoto e copia a url dele.
-   > vai até o local desejado para receber o repositório remoto
-   > digita no gitbash:
+   > vai no repositório remoto e copia a url dele.  
+   > vai até o local desejado para receber o repositório remoto  
+   > digita no gitbash:  
    > git clone "url do repositório remoto"
 
 3. Fazer Alterações >> Adicionar | Commitar | Enviar arquivor; [ x ]
-   > git add .
-   > git commit -m "Mensagem"
+   > git add .  
+   > git commit -m "Mensagem"  
    > git push origin "url https"
 
 4. Criar uma nova Branch; [ ]
-   > git branch
+   > git branch  
    > 
 5. Realizar um pull Request e Merge; [ ]
 6. Criar nosso primeiro Fork; [ ]
