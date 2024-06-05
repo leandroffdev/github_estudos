@@ -60,5 +60,6 @@
     > para fazer o merge, volta p a branch main  
     > git checkout main  
     > git merge versao1
-5. Realizar um pull Request e Merge; [ ]
-6. Criar nosso primeiro Fork; [ ]
+5. Realizar um Fork e pull Request; [ ]
+   > para fazer um fork vai no repositório do github  
+   > 
