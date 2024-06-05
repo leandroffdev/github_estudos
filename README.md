@@ -62,5 +62,6 @@
     > git merge versao1
 5. Realizar um Fork e pull Request; [ ]
    > para fazer um fork vai no repositório do github  
-   > clica em fork
-   
+   > clica em fork. agora passará a aparecer no seu github  
+   > após fazer alterações, se quiser fazer um pull request,  
+   > no repositorio forkado clica em pull request e criar pull request
