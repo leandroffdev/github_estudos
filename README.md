@@ -47,10 +47,18 @@
    > git commit -m "Mensagem"  
    > git push origin "url https"
 
-4. Criar uma nova Branch; [ ]
+4. Criar uma nova Branch e merge; [ ]
    > git branch  
    > git branch versao1  
    > git checkout versao1  
-   
+   > fazer alterações  
+   > git add .  
+   > git commit -m "Mensagem"  
+   > git push origin versao1  
+   > vai aparecer no github a solicitação de pull request  
+     
+    > para fazer o merge, volta p a branch main  
+    > git checkout main  
+    > git merge versao1
 5. Realizar um pull Request e Merge; [ ]
 6. Criar nosso primeiro Fork; [ ]
