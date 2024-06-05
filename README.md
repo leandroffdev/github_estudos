@@ -62,4 +62,5 @@
     > git merge versao1
 5. Realizar um Fork e pull Request; [ ]
    > para fazer um fork vai no repositório do github  
-   > 
+   > clica em fork
+   
