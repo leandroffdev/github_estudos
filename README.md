@@ -47,7 +47,7 @@
    > git commit -m "Mensagem"  
    > git push origin "url https"
 
-4. Criar uma nova Branch e merge; [ ]
+4. Criar uma nova Branch e merge; [ x ]
    > git branch  
    > git branch versao1  
    > git checkout versao1  
@@ -60,7 +60,7 @@
     > para fazer o merge, volta p a branch main  
     > git checkout main  
     > git merge versao1
-5. Realizar um Fork e pull Request; [ ]
+5. Realizar um Fork e pull Request; [ x ]
    > para fazer um fork vai no repositório do github  
    > clica em fork. agora passará a aparecer no seu github  
    > após fazer alterações, se quiser fazer um pull request,  
@@ -71,4 +71,8 @@
 
 6. Tags e versões
    > git tag -a v1.1 -m "Versão 1.1"
+   > git push origin v1.1
+
+7. Release
+   > 
 
