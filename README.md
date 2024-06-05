@@ -69,3 +69,6 @@
    > na conta principal, clica p ver as pull requests  
    > analisa e faz o merge
 
+6. Tags e versões
+   > git tag -a v1.1 -m "Versão 1.1"
+
