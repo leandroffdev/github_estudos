@@ -49,6 +49,8 @@
 
 4. Criar uma nova Branch; [ ]
    > git branch  
-   > 
+   > git branch versao1  
+   > git checkout versao1  
+   
 5. Realizar um pull Request e Merge; [ ]
 6. Criar nosso primeiro Fork; [ ]
