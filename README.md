@@ -70,9 +70,28 @@
    > analisa e faz o merge
 
 6. Tags e versões
-   > git tag -a v1.1 -m "Versão 1.1"
+   > git tag -a v1.1 -m "Versão 1.1"  
    > git push origin v1.1
 
 7. Release
-   > 
+   > é uma ferramenta para organizar o versionamento do seu projeto, compartilhar recursos específicos da versão e registrar alterações para melhor controle e colaboração
+   > Clica em Release > dá um nome e descrição
+
+8. Gists
+   > é uma ferramenta simples e poderosa para compartilhar snippets de código, scripts, arquivos de configuração ou qualquer outro tipo de texto curto. É como um repositório leve para armazenar e compartilhar pequenos pedaços de código de forma rápida e fácil.
+   > gists.github.com
+   > Descrição
+   > nome do arquivo.extensão
+   > conteudo do arquivo (pedaço de código a ser compartilhado)
+   > escolhe se será secreto ou publico
+   > pose adicionar alguns arquivos
+
+9. Issues
+   > Um espaço para comunicação, organização e acompanhamento de tarefas em projetos.
+   > As Issues no GitHub são ferramentas essenciais para gerenciar o desenvolvimento de projetos em equipe ou individualmente.
+   > Entra no Repositório > Issues > New Issue
+
+10. Wikis
+   > servem como repositórios de documentação colaborativa para seus projetos.  
+   > São espaços para criar e compartilhar informações relevantes sobre o seu código, facilitando o acesso e a compreensão do projeto para qualquer pessoa.
 
